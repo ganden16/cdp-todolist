@@ -9,6 +9,7 @@ import store from './store'
 
 let token = Cookies.get('token')
 axios.defaults.baseURL = 'http://localhost:5000'
+// axios.defaults.baseURL = 'https://api-cdp.ganden.my.id'
 axios.defaults.headers.common['Authorization'] = token ? `Bearer ${token}` : '';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
