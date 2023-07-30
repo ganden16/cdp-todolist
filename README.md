@@ -11,6 +11,7 @@ Aplikasi Todolist yang menerapkan rest api terdiri dari beberapa fitur untuk mel
 
 ### 4. Dokumentasi
 #####  link web : https://cdp.ganden.my.id/
+##### baseUrl api : https://api-cdp.ganden.my.id/
 ##### link doc api : https://documenter.getpostman.com/view/19885257/2s9XxtxEti
 
 ### 5. Akses Login
